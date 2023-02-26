@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.CircularProgressbar {
+    /* Estilos para el contenedor de la gráfica circular */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .CircularProgressbar .CircularProgressbar-path {
+    /* Estilos para el camino de la gráfica circular */
+    stroke: #4F46E5;
+    stroke-linecap: round;
+  }
+  
+  .CircularProgressbar .CircularProgressbar-text {
+    /* Estilos para el texto que se muestra dentro de la gráfica circular */
+    font-size: 20px;
+    font-weight: bold;
+    fill: #4F46E5;
+  }

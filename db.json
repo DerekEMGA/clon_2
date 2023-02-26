@@ -1,0 +1,48 @@
+{
+  "pasesDeSalida": [
+    {
+      "nombre": "Alvaro Yahir Ramos Alvarado",
+      "fecha": "2023-02-26",
+      "horario": "M",
+      "tipo_pase": "Particular",
+      "hora_desde": "13:11",
+      "hora_hasta": "14:11",
+      "confirmado": "true",
+      "id": 1
+    },
+    {
+      "nombre": "Yahir Ramos",
+      "fecha": "2023-02-26",
+      "horario": "V",
+      "tipo_pase": "Particular",
+      "hora_desde": "13:11",
+      "hora_hasta": "14:11",
+      "confirmado": "true",
+      "id": 2
+    },
+    {
+      "nombre": "Miguel Martinez",
+      "fecha": "2023-02-27",
+      "horario": "F",
+      "tipo_pase": "Oficial",
+      "hora_desde": "15:12",
+      "hora_hasta": "17:12",
+      "confirmado": "false",
+      "id": 3
+    }
+  ],
+  "empleados": [
+    {
+      "id": 123,
+      "nomina": "Federal",
+      "nombre": "Miguel Martinez",
+      "turno": "Fin de semana"
+    },
+    {
+      "id": 442,
+      "nomina": "Regularizado",
+      "nombre": "Jorge perez",
+      "turno": "Matutino"
+    }
+  ]
+}
